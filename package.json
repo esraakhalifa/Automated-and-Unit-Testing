@@ -1,0 +1,17 @@
+{
+  "name": "automated-and-unit-testing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^6.3.0",
+    "chai": "^5.2.0"
+  }
+}
